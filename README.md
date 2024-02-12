@@ -7,4 +7,6 @@ KEY HIGHLIGHTS
 4.	Attrition by Job Role:•	Managers and Research Directors have the lowest attrition rates.
 5.	Attrition by Overtime:•	Employees who work overtime have a higher attrition rate compared to those who don't.
 
-PDF LINK:- 
+PDF LINK:- https://drive.google.com/file/d/1AFiNVa5Wf5Lsx9lZ_-1Uv_ZRtCk02tGa/view?usp=sharing
+
+EXCEL LINK:- https://docs.google.com/spreadsheets/d/1ySvxiZw8n_XARm-jV-72cXcQ16FR3RGr/edit?usp=sharing&ouid=107556500721615348382&rtpof=true&sd=true
